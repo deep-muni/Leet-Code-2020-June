@@ -36,6 +36,9 @@ public class Power_of_Two {
         }
 
         return false;
+
+        /* Single line code */
+        //  return (n & (n - 1)) == 0;
     }
 
     public static void main(String[] args){
