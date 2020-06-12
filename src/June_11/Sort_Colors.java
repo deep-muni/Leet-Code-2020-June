@@ -18,6 +18,8 @@ Output: [0,0,1,1,2,2]
 
 */
 
+package June_11;
+
 import java.util.Arrays;
 
 public class Sort_Colors{
