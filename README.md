@@ -6,3 +6,12 @@ I have written the problem and solution for them in separate packages.
 
 Since the challenge only provides the Solution function, to execute the program, 
 I have written the calling function and other functions/classes if required.
+
+Completion of Challenge
+
+![overview](/raw/image1.jpeg)
+
+![detailed](/raw/image2.jpeg)
+
+
+Thank you LeetCode for this challenge.
